@@ -1,0 +1,27 @@
+#main{
+    background-color: bisque;
+    height: 300px;
+    width: 50%;
+    border:2px solid black;
+}
+.a{
+    background-color: blue;
+    height: 150px;
+    width: 20%;
+
+    float: left;
+}
+.b{
+    background-color: rgb(255, 123, 0);
+    height: 200px;
+    width: 50%;
+    text-align: center;
+    padding-top: 100px ;
+    float: left;
+}
+.c{
+    background-color: blue;
+    height: 200px;
+    width: 30%;
+    float: left;
+}

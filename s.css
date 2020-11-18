@@ -1,0 +1,33 @@
+.a{
+    background-color: rgb(135, 175, 141);
+    width:100%;
+    height: 300px;
+    float:left;
+}
+.b{
+    background-color: #5900ff;
+    height: 300px;
+    width:35%;
+    float:left;
+    
+}
+.b1{
+    background-color: #000000;
+    height: 300px;
+    width: 5%;
+    float: left;
+}
+.c{
+    background-color: orange;
+    height: 300px;
+    width:60%;
+    float:right;
+    
+}
+.d{
+    background-color: pink;
+    height: 200px;
+    width:100%;
+    float:left;
+    
+}
